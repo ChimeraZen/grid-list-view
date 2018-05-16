@@ -1,10 +1,13 @@
 {
   "name": "grid-list-view",
-  "version": "1.2.2",
-  "author": "Chimera.Zen",
+  "version": "1.2.5",
+  "author": {
+    "name": "Chimera.Zen",
+    "email": "chimera.zen@gmail.com"
+  },
   "description": "A responsive React-based grid-list view using Zen Design styles",
-  "private": true,
-  "main": "index.js"
+  "license": "(CC-BY-NC-ND-4.0)",
+  "private": false,
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
