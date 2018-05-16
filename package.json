@@ -1,0 +1,19 @@
+{
+  "name": "grid-list-view",
+  "version": "1.2.2",
+  "author": "Chimera.Zen",
+  "description": "A responsive React-based grid-list view using Zen Design styles",
+  "private": true,
+  "main": "index.js"
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
