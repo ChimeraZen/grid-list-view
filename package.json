@@ -1,6 +1,6 @@
 {
   "name": "grid-list-view",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "author": {
     "name": "Chimera.Zen",
     "email": "chimera.zen@gmail.com"
@@ -8,6 +8,7 @@
   "description": "A responsive React-based grid-list view using Zen Design styles",
   "license": "(CC-BY-NC-ND-4.0)",
   "private": false,
+  "main": "index.js",
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
