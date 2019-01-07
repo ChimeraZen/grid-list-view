@@ -11,6 +11,9 @@
 
 
 ## ChangeLog
+### v1.2.7
+* Security Update 
+
 ### v1.2.2
 * Initial commit  
 
